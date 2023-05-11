@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="IndustrialRobot_marker" size="0.060000 0.060000" />
+    <ImageTarget name="KnightsOfUnity_marker" size="0.050000 0.050000" />
+    <ImageTarget name="TalTech_logo" size="0.050000 0.039524" />
+  </Tracking>
+</QCARConfig>
